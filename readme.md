@@ -20,6 +20,7 @@ LICENSE: [MIT](./license.md)
 11. [git rm](./rm.md)
 12. [git branch](./branch.md)
 13. [git clean](./clean.md)
+13. [git mv](./mv.md)
 
 ---
 
